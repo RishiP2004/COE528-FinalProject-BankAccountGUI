@@ -1,4 +1,7 @@
 # COE528-FinalProject-BankAccountGUI
+
+NOTE: This code is not to be copied directly or reused for your COE528 project.
+
 Final project for COE528 - A GUI for bank account management
 
 Here are the respective class and use-case diagrams for this project
